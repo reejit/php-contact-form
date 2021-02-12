@@ -1,8 +1,8 @@
 <?php
 // BEGIN CONFIGURATION ////////////////////////////////////////////////
 
-define('EMAIL_TO', 'your-email@address.com');
-define('EMAIL_SUBJECT', 'Test Subject');
+define('EMAIL_TO', 'guardiansofspartax@gmail.com');
+define('EMAIL_SUBJECT', 'New Message From Form');
 define('CAPTCHA_ENABLED', '1'); // 0 - Disabled, 1 - Enabled
 
 // END CONFIGURATION ////////////////////////////////////////////////
